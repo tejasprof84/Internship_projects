@@ -1,0 +1,24 @@
+# System & user folders
+AppData/
+Desktop/
+Documents/
+Downloads/
+
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.anaconda/
+.spyder-py3/
+
+# IDEs
+.vscode/
+.idea/
+
+# Archives & logs
+*.zip
+*.log
+
+# OS
+Thumbs.db
+advertising.csv
